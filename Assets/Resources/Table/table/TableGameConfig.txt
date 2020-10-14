@@ -1,0 +1,1 @@
+{"list":[{"id":0,"BallTime":600,"BallUpperLimit":30,"BallInitialCount":30,"CoinTo":"4000000_1","DollarTo":"100_100","FruitTo":"25_1000","AdsAddCallCount":30,"AdsAddCallNumber":30,"SeniorCoinTime":120,"SeniorCoinCount":"0_3","SeniorDollarTime":120,"SeniorDollarCount":"0_3","ElasticForce":0.5,"MoveSpeed":200,"LimitDollar":90}]}

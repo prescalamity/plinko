@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7b42d8ffdee757440816e7fed2e89306, type: 3}
+    totalSpriteSurfaceArea: 383041
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e8f1539024bcad744bd91b7c4010fb88, type: 3}
+  - {fileID: 21300000, guid: 3b8464d0d43d3e9429607e4a1b4a7436, type: 3}
+  - {fileID: 21300000, guid: e85676d02b61ea648b2aa4c3cce7313e, type: 3}
+  - {fileID: 21300000, guid: a7e80401e4738f2488b9704d7466f750, type: 3}
+  - {fileID: 21300000, guid: 51f51b611a4d6104daef9aa912c416c2, type: 3}
+  - {fileID: 21300000, guid: edc6c8e125a6f4f44bcbbb184c7aea20, type: 3}
+  - {fileID: 21300000, guid: e39948127461a8b4090bdd8e8db1c274, type: 3}
+  - {fileID: 21300000, guid: 7a550d42d976f47448ccac2abdfa0ab7, type: 3}
+  - {fileID: 21300000, guid: 9feac5c298b7ff54a93167aac8a2fbf8, type: 3}
+  - {fileID: 21300000, guid: bd547bf270e42d04ca759414127ce2a5, type: 3}
+  - {fileID: 21300000, guid: 01eef5c3b1de4344eb84f38c806ec4f9, type: 3}
+  - {fileID: 21300000, guid: d16b223563b0e014ab1a9692222d00c9, type: 3}
+  - {fileID: 21300000, guid: ab0ac145765707e4e8c65ce7828cbb29, type: 3}
+  - {fileID: 21300000, guid: d08dc4556d0755641a3dd4ed75f1c0a3, type: 3}
+  - {fileID: 21300000, guid: 49ca80a558389054682ab2f33c3dde3d, type: 3}
+  - {fileID: 21300000, guid: cb4cd1d50835cfd479b898d4c438e4fe, type: 3}
+  - {fileID: 21300000, guid: 9c8d34d505007e14a887ab16325526b0, type: 3}
+  - {fileID: 21300000, guid: e083f276d09b66d45b60bf51bda1763e, type: 3}
+  - {fileID: 21300000, guid: 962f5b7697a075f46b1c6a25c0dbf3d6, type: 3}
+  - {fileID: 21300000, guid: fdfb37b68153b3549aa2be98f653850e, type: 3}
+  - {fileID: 21300000, guid: ff83dc17aa4749b4c9c86562e173f4bd, type: 3}
+  - {fileID: 21300000, guid: 73598b27346268943b423966e78afc93, type: 3}
+  - {fileID: 21300000, guid: 90869f37ee25f6445bdf63d6bb9a16ff, type: 3}
+  - {fileID: 21300000, guid: 9e72cf37650ebb14c9e6cb633b8dba5a, type: 3}
+  - {fileID: 21300000, guid: 52ffa6b72aca5e343a6e8c6ba2f6f457, type: 3}
+  - {fileID: 21300000, guid: 11b75ab7d0eb8e6419915d96d2d2056e, type: 3}
+  - {fileID: 21300000, guid: dfecb2c77152c384d893f2221ebec71c, type: 3}
+  - {fileID: 21300000, guid: 39b21118c40c42b4a9e6e09bb59bc266, type: 3}
+  - {fileID: 21300000, guid: 0f9ab4881cc149c48864d17f801e0975, type: 3}
+  - {fileID: 21300000, guid: 05fcfd2929e13dd47b45b417ff8380f6, type: 3}
+  - {fileID: 21300000, guid: a0a41d591dca43d4aa8e6b4ef2b74efe, type: 3}
+  - {fileID: 21300000, guid: c2543e59885b2d240bdec5c741f4d554, type: 3}
+  - {fileID: 21300000, guid: 2bff734a84d21194e8e04e42d0034f75, type: 3}
+  - {fileID: 21300000, guid: c609b0cad6f5f174b9dbc31a12a1d160, type: 3}
+  - {fileID: 21300000, guid: 5f17292baad7ecd43bd64d412c1af380, type: 3}
+  - {fileID: 21300000, guid: 3ee11b7b28b42d64dad69913132c288a, type: 3}
+  - {fileID: 21300000, guid: 96956d7b45cbc1e4188c738912fc81a0, type: 3}
+  - {fileID: 21300000, guid: 87702cdbea5e6d84b8f763f56cbb7d40, type: 3}
+  - {fileID: 21300000, guid: 2dbc4c3c1db24354380acfcb7db1460f, type: 3}
+  - {fileID: 21300000, guid: 0f16220d6fe2e1549bb23eecbe9c4c1f, type: 3}
+  - {fileID: 21300000, guid: 987c371dd669d5641a80f2d2732939ff, type: 3}
+  - {fileID: 21300000, guid: 3adced9d14f23a94cb3b640e8aab7671, type: 3}
+  - {fileID: 21300000, guid: f793741ec32d2334dbc3cbb3ff17f1f3, type: 3}
+  - {fileID: 21300000, guid: 8e74a76ed3fa8b6479120ff8313b4574, type: 3}
+  - {fileID: 21300000, guid: f64b5f6e2989b0943bee27bd3a928ddf, type: 3}
+  - {fileID: 21300000, guid: 7bcc2e7eda387a8458db4fb3230ae6be, type: 3}
+  - {fileID: 21300000, guid: 20816fee140f9da4184ccc7f970db525, type: 3}
+  - {fileID: 21300000, guid: ee12d97f1e9afb247be98f5a0735f135, type: 3}
+  - {fileID: 21300000, guid: b2c0d18fb5c53ee4ebf0af593294a0eb, type: 3}
+  - {fileID: 21300000, guid: 1e47b3af56b83fd4ea675d943df57ce7, type: 3}
+  - {fileID: 21300000, guid: 9c4fc1bfc5172284eb18ea1050b29c4d, type: 3}
+  - {fileID: 21300000, guid: 1c9276cf219bf0546a62cee5db8522b4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - home_ic_increase@2x
+  - ic_fruit_starfruit
+  - ic_fruit_nectarine
+  - ic_blocksx20
+  - ic_fruit_kiwi fruit
+  - SlotMachineMask
+  - ic_1000yellowcion
+  - home_top_bg@2x
+  - home_jar_front@2x
+  - home_slots_front@2x
+  - ic_fruit_mango
+  - greenball@2x
+  - home_top_ic_greenball@2x
+  - home_blackball@2x
+  - home_top_ic_Bubble
+  - ic_fruit_greenapple
+  - ic_fruit_avocado
+  - ic_fruit_cherry
+  - ic_fruit_pear
+  - ic_seven
+  - ic_fruit_watermelon
+  - home_jar@2x
+  - ic_fruit_lemon
+  - ic_dollarx200
+  - ic_fruit_coconut
+  - ic_fruit_pomegranate
+  - ic_fruit_apple
+  - yellowball@2x
+  - ic_5balls
+  - ic_fruit_jackfruit
+  - ic_dollar
+  - ic_fruit_pawpaw
+  - slots@2x
+  - ic_20balls
+  - home_top_Fruits_number@2x
+  - ic_fruit_grape
+  - ic_fruit_orange
+  - home_ic_voice_on@2x
+  - home_ic_voice_off@2x
+  - home_ic_set_up@2x
+  - ic_fruit_tomato
+  - ic_fruit_Mangosteen
+  - ic_fruit_banana
+  - ic_blocksx10
+  - ic_bell
+  - ic_fruit_peach
+  - ic_fruit_Prunusmume
+  - redball@2x
+  - ic_fruit_blueberry
+  - ic_dollarx20
+  - ic_fruit_pitaya
+  - ic_fruit_strawberry
+  m_Tag: Icons
+  m_IsVariant: 0
